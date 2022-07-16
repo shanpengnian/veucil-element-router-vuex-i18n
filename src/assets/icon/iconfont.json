@@ -1,0 +1,16 @@
+{
+  "id": "2647646",
+  "name": "vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21587252",
+      "name": "地球",
+      "font_class": "diqiu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    }
+  ]
+}
